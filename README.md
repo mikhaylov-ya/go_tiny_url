@@ -1,1 +1,1 @@
-# go_tiny_url
+# URL Shortener (Go)
